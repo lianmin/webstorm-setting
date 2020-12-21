@@ -4,7 +4,7 @@
     <property name="created">2020-12-21T19:58:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-21T19:58:06</property>
+    <property name="modified">2020-12-21T21:37:42</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -948,6 +948,22 @@
       </value>
     </option>
     <option name="MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="e9e985" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
+    <option name="MARKDOWN_IMAGE">
+      <value>
+        <option name="BACKGROUND" value="1c1a1a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
       </value>
