@@ -1,11 +1,15 @@
 <scheme name="lianmin" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-12-21T18:26:35</property>
+    <property name="created">2020-12-21T19:58:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-21T19:41:54</property>
+    <property name="modified">2020-12-21T19:58:06</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -904,11 +908,6 @@
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="62cee2" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
