@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="格式化保存">
+      <action id="ReformatWithPrettierAction" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>
