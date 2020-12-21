@@ -44,6 +44,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="HideActiveWindow" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
