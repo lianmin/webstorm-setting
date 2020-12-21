@@ -3,7 +3,7 @@
     <property name="created">2020-12-21T18:26:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-21T19:29:20</property>
+    <property name="modified">2020-12-21T18:26:42</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <colors>
@@ -906,11 +906,6 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="62cee2" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -920,17 +915,6 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="JS.INTERFACE">
-      <value>
-        <option name="FOREGROUND" value="62cee2" />
-        <option name="BACKGROUND" value="272822" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
