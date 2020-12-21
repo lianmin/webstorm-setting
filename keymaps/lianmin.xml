@@ -11,8 +11,14 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ProjectView.ShowExcludedFiles">
+    <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
