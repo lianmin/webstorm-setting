@@ -10,7 +10,6 @@
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="$Redo">
@@ -42,6 +41,14 @@
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta alt w" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="a" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -85,6 +92,14 @@
   </action>
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -161,6 +176,20 @@
   </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="meta enter" />
