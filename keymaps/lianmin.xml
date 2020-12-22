@@ -145,6 +145,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="NewElementMenu">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="ProjectView.ShowExcludedFiles">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
