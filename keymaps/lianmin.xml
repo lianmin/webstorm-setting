@@ -64,6 +64,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -81,7 +84,7 @@
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
   <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -117,6 +120,12 @@
   <action id="Macro.格式化保存">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="ProjectView.ShowExcludedFiles">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
@@ -141,7 +150,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="ScrollPane-scrollEnd">
-    <keyboard-shortcut first-keystroke="shift meta down" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
