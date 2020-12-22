@@ -4,7 +4,7 @@
     <property name="created">2020-12-21T19:58:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-22T10:36:20</property>
+    <property name="modified">2020-12-22T11:19:48</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -967,6 +967,16 @@
         <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
+    <option name="MARKDOWN_BOLD">
+      <value>
+        <option name="FOREGROUND" value="66eddb" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD_MARKER">
+      <value>
+        <option name="FOREGROUND" value="66eddb" />
+      </value>
+    </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
       <value>
         <option name="FOREGROUND" value="e9e985" />
@@ -976,6 +986,11 @@
     <option name="MARKDOWN_IMAGE">
       <value>
         <option name="BACKGROUND" value="1c1a1a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FOREGROUND" value="66eddb" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_DESTINATION">
