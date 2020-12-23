@@ -30,9 +30,6 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
-  <action id="AttachProject">
-    <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -148,6 +145,10 @@
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ProjectView.ShowExcludedFiles">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
@@ -173,6 +174,10 @@
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
+  <action id="SaveAs">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />
