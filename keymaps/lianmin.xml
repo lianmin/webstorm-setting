@@ -149,6 +149,9 @@
   <action id="Macro.格式化保存">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
