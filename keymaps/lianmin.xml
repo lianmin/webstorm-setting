@@ -149,6 +149,9 @@
   <action id="Macro.prettier 格式化代码">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Macro.格式化保存">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
