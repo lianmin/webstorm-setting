@@ -64,4 +64,21 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="if" value="if($1$){&#10;  $if$&#10;} else {&#10;  $else$&#10;}&#10;" description="if condition" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="if" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="else" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
