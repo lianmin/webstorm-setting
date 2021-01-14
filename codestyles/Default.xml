@@ -1,5 +1,12 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_BEFORE_SEMICOLON" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
