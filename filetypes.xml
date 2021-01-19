@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping ext="acss" type="PLAIN_TEXT" />
       <mapping ext="wcss" type="PLAIN_TEXT" />
+      <mapping ext="axml" type="XML" />
+      <hashBang value=".axml" type="XML" />
+      <hashBang value=".wxml" type="XML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
