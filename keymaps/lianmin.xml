@@ -61,6 +61,12 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="CommittedChanges.Clear">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -196,6 +202,9 @@
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
+  <action id="RunDashboard.ClearContent">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="SaveAs">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
