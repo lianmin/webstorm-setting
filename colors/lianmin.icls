@@ -4,7 +4,7 @@
     <property name="created">2020-12-21T19:58:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-07T14:41:53</property>
+    <property name="modified">2021-01-22T15:23:30</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -942,7 +942,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a7ff6d" />
+        <option name="FOREGROUND" value="fd1f78" />
       </value>
     </option>
     <option name="JS.GLOBAL_VARIABLE">
@@ -958,7 +958,7 @@
     </option>
     <option name="JS.INTERFACE">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="99fc68" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>
@@ -974,7 +974,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
+        <option name="FOREGROUND" value="affd1f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
