@@ -226,6 +226,10 @@
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift f5" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
