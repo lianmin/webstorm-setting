@@ -4,11 +4,22 @@
       <list>
         <BackgroundConfiguration>
           <option name="fileNames">
-            <array />
+            <array>
+              <option value="$USER_HOME$/Desktop/eto.png" />
+            </array>
           </option>
           <option name="name" value="eto" />
+          <option name="position" value="4" />
           <option name="shrink" value="true" />
-          <option name="shrinkValue" value="100" />
+          <option name="shrinkValue" value="60" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="$USER_HOME$/Desktop/eto.png" />
+            </array>
+          </option>
+          <option name="opacity" value="0.61" />
         </BackgroundConfiguration>
       </list>
     </option>

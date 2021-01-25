@@ -251,6 +251,7 @@
     <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="f13" />
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift meta enter" />
