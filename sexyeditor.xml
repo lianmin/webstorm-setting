@@ -9,7 +9,8 @@
             </array>
           </option>
           <option name="name" value="eto" />
-          <option name="position" value="4" />
+          <option name="opacity" value="0.4" />
+          <option name="position" value="8" />
           <option name="shrink" value="true" />
           <option name="shrinkValue" value="60" />
         </BackgroundConfiguration>
