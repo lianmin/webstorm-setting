@@ -4,7 +4,7 @@
     <property name="created">2020-12-21T19:58:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-22T15:23:30</property>
+    <property name="modified">2021-01-25T11:12:42</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -990,7 +990,7 @@
     </option>
     <option name="JSON.STRING">
       <value>
-        <option name="FOREGROUND" value="ffe6c1" />
+        <option name="FOREGROUND" value="e9e985" />
       </value>
     </option>
     <option name="LABEL">
