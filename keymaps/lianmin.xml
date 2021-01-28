@@ -238,6 +238,9 @@
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="ScrollPane-scrollHome">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt semicolon" />
     <keyboard-shortcut first-keystroke="meta 3" />
