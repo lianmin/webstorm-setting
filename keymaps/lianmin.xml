@@ -290,4 +290,7 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift meta alt h" />
+  </action>
 </keymap>
