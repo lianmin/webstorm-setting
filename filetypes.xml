@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".fusion" type="JSON" />
       <mapping pattern=".dev" type="PLAIN_TEXT" />
       <mapping ext="acss" type="PLAIN_TEXT" />
       <mapping ext="wcss" type="PLAIN_TEXT" />
