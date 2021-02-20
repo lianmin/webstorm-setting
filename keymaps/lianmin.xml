@@ -176,7 +176,9 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="HideActiveWindow" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
