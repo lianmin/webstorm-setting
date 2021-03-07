@@ -9,6 +9,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.md" />
     <mask>index.ts</mask>
+    <mask>basic.md</mask>
     <mask>*.md</mask>
   </component>
 </application>
