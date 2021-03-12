@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="hello world" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615550977822" />
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Andale Mono" />
+    <option name="primaryFontFamily" value=".AppleSystemUIFontMonospaced" />
+  </component>
+</application>
