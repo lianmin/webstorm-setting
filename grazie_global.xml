@@ -1,5 +1,10 @@
 <application>
   <component name="GraziConfig">
+    <option name="disabledGrammarStrategies">
+      <set>
+        <option value="JavaScript:JavaScript" />
+      </set>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
