@@ -113,4 +113,13 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="ei" value="// eslint-disable-next-line" description="eslint disalbe next line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
