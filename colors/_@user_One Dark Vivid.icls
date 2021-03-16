@@ -3,7 +3,7 @@
     <property name="created">2021-03-10T21:09:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-16T15:59:19</property>
+    <property name="modified">2021-03-16T16:24:30</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -26139,8 +26139,9 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
+        <option name="FOREGROUND" value="21252b" />
+        <option name="BACKGROUND" value="c6b78f" />
+        <option name="EFFECT_COLOR" value="e3ab32" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -26341,8 +26342,9 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
+        <option name="FOREGROUND" value="21252b" />
+        <option name="BACKGROUND" value="d1c087" />
+        <option name="EFFECT_COLOR" value="f5c122" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
