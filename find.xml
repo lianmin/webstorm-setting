@@ -8,5 +8,6 @@
     <mask>index.ts</mask>
     <mask>basic.md</mask>
     <mask>*.md</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
