@@ -67,6 +67,8 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -94,6 +96,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -109,6 +114,9 @@
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift home" />
     <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
   </action>
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
@@ -179,6 +187,9 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
+  <action id="List-selectNextColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
@@ -202,6 +213,7 @@
   </action>
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -209,6 +221,7 @@
   </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="Print" />
   <action id="ProblemsView.QuickFixes" />
@@ -266,6 +279,12 @@
     <keyboard-shortcut first-keystroke="shift f5" />
     <keyboard-shortcut first-keystroke="f7" />
   </action>
+  <action id="Table-selectNextColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+  </action>
+  <action id="Table-selectPreviousColumnExtendSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+  </action>
   <action id="Terminal.ClearBuffer">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -291,6 +310,9 @@
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="Tree-selectParentExtendSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift meta alt h" />
